@@ -1,0 +1,107 @@
+{
+  "branches": [
+    "main"
+  ],
+  "commits": [
+    {
+      "Hash": "7d0ab29471f0d6a5da070dd764123e8e38c704de",
+      "h": "7d0ab294",
+      "an": "tsuntsov",
+      "ad": "2021-03-08 14:31:52",
+      "s": "simples by picture",
+      "sWithUrl": "simples by picture",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/7d0ab29471f0d6a5da070dd764123e8e38c704de",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "c741dd94b2e24f6bf0dda00b7b98e942d43583a4",
+      "h": "c741dd94",
+      "an": "tsuntsov",
+      "ad": "2021-03-08 09:35:18",
+      "s": "remove spring, work fx",
+      "sWithUrl": "remove spring, work fx",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/c741dd94b2e24f6bf0dda00b7b98e942d43583a4",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "b2c23ffcf30d3992f58fbec5575cc4769ce3b81a",
+      "h": "b2c23ffc",
+      "an": "tsuntsov",
+      "ad": "2021-03-01 18:00:00",
+      "s": "javafx. simples form",
+      "sWithUrl": "javafx. simples form",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/b2c23ffcf30d3992f58fbec5575cc4769ce3b81a",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "8a3e0cd1949cdcdad23b154a7aa1449046baeb55",
+      "h": "8a3e0cd1",
+      "an": "tsuntsov",
+      "ad": "2021-02-27 19:05:22",
+      "s": "change project structure",
+      "sWithUrl": "change project structure",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/8a3e0cd1949cdcdad23b154a7aa1449046baeb55",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "6bd2db1aa0ee58bfabb347e79dc3583d37d03451",
+      "h": "6bd2db1a",
+      "an": "tsuntsov",
+      "ad": "2021-02-27 18:55:13",
+      "s": "impl controller",
+      "sWithUrl": "impl controller",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/6bd2db1aa0ee58bfabb347e79dc3583d37d03451",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "464493a6841a7c02ff78261ef1c5876e04f940f3",
+      "h": "464493a6",
+      "an": "tsuntsov",
+      "ad": "2021-02-26 14:46:59",
+      "s": "controller prepare",
+      "sWithUrl": "controller prepare",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/464493a6841a7c02ff78261ef1c5876e04f940f3",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "da72e7a3468bbda6dbb7e3c0536a28fe47be74b0",
+      "h": "da72e7a3",
+      "an": "tsuntsov",
+      "ad": "2021-02-25 14:12:27",
+      "s": "add ChessStructure, WindowStructure",
+      "sWithUrl": "add ChessStructure, WindowStructure",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/da72e7a3468bbda6dbb7e3c0536a28fe47be74b0",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "1303e388ca27e381fe771444ddaa090e3d01846a",
+      "h": "1303e388",
+      "an": "tsuntsov",
+      "ad": "2021-02-24 20:46:20",
+      "s": "add gen struct - rnd, line",
+      "sWithUrl": "add gen struct - rnd, line",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/1303e388ca27e381fe771444ddaa090e3d01846a",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "b82aa81c1dd2a17bce9660fe6f1a88cc56a7fc4f",
+      "h": "b82aa81c",
+      "an": "Piloting",
+      "ad": "2021-02-24 13:06:31",
+      "s": "Update maven.yml",
+      "sWithUrl": "Update maven.yml",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/b82aa81c1dd2a17bce9660fe6f1a88cc56a7fc4f",
+      "issueUrl": ""
+    },
+    {
+      "Hash": "2682164ee97f46287e3064c1a2f7b8b421912fbc",
+      "h": "2682164e",
+      "an": "Piloting",
+      "ad": "2021-02-24 12:49:38",
+      "s": "Create maven.yml",
+      "sWithUrl": "Create maven.yml",
+      "gitLabUrl": "https://github.com/Piloting/patchwork2/commit/2682164ee97f46287e3064c1a2f7b8b421912fbc",
+      "issueUrl": ""
+    }
+  ]
+}

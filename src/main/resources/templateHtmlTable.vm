@@ -1,5 +1,6 @@
-#if ($!commits.size() != 0)
 <b>$!currentBranch</b>
+
+#if ($!commits.size() != 0)
 
 <table cellspacing="2" cellpadding="2" border="1" width="100%">
     <tr valign="top">

@@ -1,0 +1,28 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Commits</title>
+    </head>
+    <b>$!currentBranch</b>
+    
+#if ($!commits.size() != 0)
+    
+    <table cellspacing="2" cellpadding="2" border="1" width="100%">
+        <tr valign="top">
+            <td><b>Date</b></td>
+            <td><b>Author</b></td>
+            <td><b>Commit</b></td>
+            <td><b>Message</b></td>
+        </tr>
+#foreach ($!commit in $!commits)
+        <tr valign="top">
+            <td>$!commit.ad</td>
+            <td>$!commit.an</td>
+            <td><a href="$!commit.gitLabUrl">$!commit.h</a></td>
+            <td>$!commit.sWithUrl</td>
+        </tr>
+#end
+    </table>
+#end
+
+</html>

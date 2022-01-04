@@ -2,6 +2,7 @@ package ru.suntsovto.plugin.gitLogGenerator;
 
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 /**
  * %H  Hash (full)
@@ -12,6 +13,7 @@ import lombok.Setter;
  */
 @Getter
 @Setter
+@ToString
 public class CommitDto {
     private String Hash;
     private String h;
@@ -20,4 +22,5 @@ public class CommitDto {
     private String s;
     private String sWithUrl;
     private String gitLabUrl;
+    private String issueUrl;
 }

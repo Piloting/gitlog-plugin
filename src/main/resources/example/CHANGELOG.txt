@@ -1,0 +1,11 @@
+Branch: [main]
+2021-03-08 14:31:52 7d0ab294 tsuntsov simples by picture
+2021-03-08 09:35:18 c741dd94 tsuntsov remove spring, work fx
+2021-03-01 18:00:00 b2c23ffc tsuntsov javafx. simples form
+2021-02-27 19:05:22 8a3e0cd1 tsuntsov change project structure
+2021-02-27 18:55:13 6bd2db1a tsuntsov impl controller
+2021-02-26 14:46:59 464493a6 tsuntsov controller prepare
+2021-02-25 14:12:27 da72e7a3 tsuntsov add ChessStructure, WindowStructure
+2021-02-24 20:46:20 1303e388 tsuntsov add gen struct - rnd, line
+2021-02-24 13:06:31 b82aa81c Piloting Update maven.yml
+2021-02-24 12:49:38 2682164e Piloting Create maven.yml
